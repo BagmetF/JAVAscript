@@ -1,4 +1,4 @@
-package Obstacles;
+package Homework01.Obstacles;
 
 public abstract class Obstacle {
     private int distance;

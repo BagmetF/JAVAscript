@@ -1,6 +1,6 @@
-package Actions;
+package Homework01.Actions;
 
-    import Obstacles.Obstacle;
+    import Homework01.Obstacles.Obstacle;
 
 public interface PlayerAction {
     void pass(Obstacle obstacle);

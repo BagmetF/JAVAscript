@@ -1,4 +1,6 @@
-import Obstacles.Obstacle;
+package Homework01;
+
+import Homework01.Obstacles.Obstacle;
 
 public class Team {
     private final String title;

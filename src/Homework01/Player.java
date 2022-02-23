@@ -1,6 +1,8 @@
-        import Actions.ActionState;
-        import Actions.PlayerAction;
-        import Obstacles.Obstacle;
+package Homework01;
+
+import Homework01.Actions.ActionState;
+        import Homework01.Actions.PlayerAction;
+        import Homework01.Obstacles.Obstacle;
 
 public class Player {
     private final String name;

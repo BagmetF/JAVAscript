@@ -1,6 +1,6 @@
-package Actions;
+package Homework01.Actions;
 
-    import Obstacles.*;
+    import Homework01.Obstacles.*;
 
 public class JumpAction implements PlayerAction {
     private int maxDistance;

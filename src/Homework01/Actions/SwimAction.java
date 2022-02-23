@@ -1,7 +1,7 @@
-package Actions;
+package Homework01.Actions;
 
-    import Obstacles.Obstacle;
-    import Obstacles.Pool;
+    import Homework01.Obstacles.Obstacle;
+    import Homework01.Obstacles.Pool;
 
 public class SwimAction implements PlayerAction {
     private int maxDistance;

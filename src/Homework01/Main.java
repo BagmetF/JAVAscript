@@ -1,13 +1,15 @@
-        import Actions.JumpAction;
-        import Actions.PlayerAction;
-        import Actions.RunAction;
-        import Actions.SwimAction;
-        import Actions.CrawlAction;
-        import Obstacles.Obstacle;
-        import Obstacles.Pool;
-        import Obstacles.Racetrack;
-        import Obstacles.Wall;
-        import Obstacles.BarbedWire;
+package Homework01;
+
+import Homework01.Actions.JumpAction;
+        import Homework01.Actions.PlayerAction;
+        import Homework01.Actions.RunAction;
+        import Homework01.Actions.SwimAction;
+        import Homework01.Actions.CrawlAction;
+import Homework01.Obstacles.Obstacle;
+        import Homework01.Obstacles.Pool;
+        import Homework01.Obstacles.Racetrack;
+        import Homework01.Obstacles.Wall;
+        import Homework01.Obstacles.BarbedWire;
         import java.util.Random;
 
 public class Main {

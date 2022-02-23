@@ -1,4 +1,4 @@
-package Actions;
+package Homework01.Actions;
 
 public enum ActionState {
     NONE,

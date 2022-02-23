@@ -1,7 +1,7 @@
-package Actions;
+package Homework01.Actions;
 
-    import Obstacles.Obstacle;
-    import Obstacles.BarbedWire;
+    import Homework01.Obstacles.Obstacle;
+    import Homework01.Obstacles.BarbedWire;
 
 public class CrawlAction implements PlayerAction {
     private int maxDistance;
